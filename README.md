@@ -12,7 +12,6 @@ Is job density in the area important to the social status of the people living i
 
 ## Data Analysis
 
-### Data used
 We'll use open data from one source:
 
 Opportunity Insights: The Opportunity Atlas answers this question using anonymous data following 20 million Americans from childhood to their mid-30s which allows to trace the roots of today's affluence and poverty back to the neighborhoods where people grew up. It is a comprehensive Census tract-level dataset of children’s outcomes in adulthood using data covering nearly the entire U.S. population. For each tract,  estimate children’s outcomes in adulthood such as earnings distributions and incarceration rates by parental income, race, and gender are estimated.  Following metrics from the datasets were analyzed:
@@ -45,6 +44,25 @@ Final Analysis:
 
 ### Interpretation/ Conclusion 
  
- 
+To conclude, we can compare our calculated index to Opportunity Insights index based on following factors: 
+- factors associated with strong upward mobility from Opportunity Insights:
+less segregation by income and race;
+lower levels of income inequality;
+better schools;
+lower rates of violent crime; and
+a larger share of two-parent households.
+
+- factors associated with strong social mobility from Our Findings:
+Job density rate in the area; 
+Individual Income; 
+Average Job growth /rates
+
+
+Following metrics were chosen since based on job density we can tell about the economic growth of the city. Talking social mobility is easy; addressing it is hard. 
+Taking about social mobility in a granular level by analyzing each factor seperately lets to get closer to tackling the solution and better understanding the problem. When the debate turns to solutions it too often gets mired in detail, the tinkering and tweaking of policies unlikely to transform society. 
+
+
+
+
 
 

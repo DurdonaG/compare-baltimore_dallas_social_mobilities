@@ -24,7 +24,27 @@ Average job growth
 ### Analysis
 From the dataset 'cty_allIndicators_allSubgroups.csv' values for individual incomes, job density, average job growth were extracted. Data was filtered and sorted and pivot tables were created to evaluate differences between Baltimore and Dallas. Two cities were evaluated on average individual incomes, job growth by counties, and job density in the counties. Baltimore and Dallas were compared on aforementioned metrics and comparison data was summarized on the table.  Social mobility index was created and both cities were assigned indices on how socially mobile they are. 
 
+This analysis compares social mobility between two cities using following variables:
 
+Average individual income:
+
+![](https://github.com/DurdonaG/compare-baltimore_dallas_social_mobilities/blob/main/Images/Project1.2%20.png)
+
+Average job growth: 
+
+![](https://github.com/DurdonaG/compare-baltimore_dallas_social_mobilities/blob/main/Images/Project1.3.png)
+
+Average job density:
+
+![](https://github.com/DurdonaG/compare-baltimore_dallas_social_mobilities/blob/main/Images/Project1.4.png)
+
+Final Analysis: 
+
+![](https://github.com/DurdonaG/compare-baltimore_dallas_social_mobilities/blob/main/Images/Project1analysis.png)
+
+
+### Interpretation/ Conclusion 
+ 
  
 
 
